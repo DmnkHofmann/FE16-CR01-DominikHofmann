@@ -137,9 +137,15 @@ nav
 footer
 {
     width: 100%;
-    background-color: rgb(0, 0, 0)
+    background-color: rgb(0, 0, 0);
     color: white;
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 7px;
+}
+.rights
+{
+    font-style: italic;
 }
 .logo1
 {
